@@ -1,0 +1,32 @@
+audio/bgm.ogg
+music -
+audio/correct_sfx.ogg
+music -
+audio/enemy.ogg
+music -
+audio/victory.ogg
+music -
+audio/wrong_sfx.ogg
+music -
+images/bg_classroom.jpg
+image 2000,1100
+images/bg_enemy.jpg
+image 2000,1100
+images/bg_school.jpg
+image 2000,1100
+images/bg_victory.jpg
+image 2000,1100
+images/jinu_angry.png
+image 750,1100
+images/jinu_happy.png
+image 750,1100
+images/jinu_normal.png
+image 750,1100
+images/rumi_happy.png
+image 750,1100
+images/rumi_normal.png
+image 750,1100
+images/star_empty.png
+image 40,40
+images/star_full.png
+image 40,40
